@@ -1,4 +1,4 @@
-# Kafka: Primeira Experiência 🚀
+# Kafka 🚀
 
 Bem-vindo ao repositório do meu primeiro projeto com Kafka. Este é um pequeno projeto onde estou explorando o mundo do Apache Kafka pela primeira vez. Estou compartilhando minhas anotações e código neste repositório.
 
